@@ -18,7 +18,7 @@ Do you have access to the Stansted GMP/GMC moodle course? Course: [S1 | Stansted
 
 Which charts will you be using? Can you find them for me?
 
-Today we’ll be completing Lesson 1, which covers the tasks of GMP and GMC at Edinburgh.
+Today we’ll be completing Lesson , which covers the tasks of GMP and GMC at a busy Stansted. There will be departures, arrivals, VFR, and other non-standard movements.
 
 ### Objectives
 
