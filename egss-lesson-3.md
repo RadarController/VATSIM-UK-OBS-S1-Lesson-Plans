@@ -33,7 +33,7 @@ Today we’ll be completing Lesson 1, which covers the tasks of GMP and GMC at E
 1. Confirm that the latest sectorfile and UKCP are installed.
 2. Tell me about the roles of GMC, AIR, FIN and INT (ref [S1 ADC: Air Traffic Control Units: Types of ATC units | VATSIM UK](https://moodle.vatsim.uk/mod/lesson/view.php?id=454&pageid=844))
 3. Tell me about some of the common flightplan issues at Stansted (level restrictions, SID restrictions, etc.)
-4. Let's talk about weather for a while, can you find and decode the METAR for Stansted? [METAR EGSS - London Stansted Airport, London, United Kingdom])https://metar-taf.com/egss). Consider some with poor weather [badbadweather.com :: Worst weather reports worldwide](https://badbadweather.com/). Find a TAF and talk about how to decode it.
+4. Let's talk about weather for a while, can you find and decode the METAR for Stansted? [METAR EGSS - London Stansted Airport, London, United Kingdom](https://metar-taf.com/egss). Consider some with poor weather [badbadweather.com :: Worst weather reports worldwide](https://badbadweather.com/). Find a TAF and talk about how to decode it.
 5. Low Visibility Procedures (ref [S1 ADC: Low Visibility Procedures](https://moodle.vatsim.uk/mod/lesson/view.php?id=720))
    - RVR or visibility decreases below **600m** (differs from UK standard of 550m), or a broken or overcast cloud ceiling forms below 200ft (ref [S1 STN: Taxi Routings and Holding Points](https://moodle.vatsim.uk/mod/lesson/view.php?id=1321&pageid=2255))
    - Aircraft cannot be assumed to see one another.
