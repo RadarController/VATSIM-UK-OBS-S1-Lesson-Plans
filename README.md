@@ -13,5 +13,5 @@ My personal detailed lesson plans for VATSIM UK OBS to S1 sessions, covering all
 ## Stansted 
  - Lesson 1 - Basic Aerodrome Control 1
  - Lesson 2 - Basic Aerodrome Control 2
- - Lesson 3 - Advanced Aerodrome Control
+ - [Lesson 3 - Advanced Aerodrome Control](https://github.com/RadarController/VATSIM-UK-OBS-S1-Lesson-Plans/blob/main/egss-lesson-3.md)
  - Lesson 4 - Aerodrome Control Consolidation
